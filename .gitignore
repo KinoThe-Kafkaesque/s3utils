@@ -1,0 +1,5 @@
+localCache.json
+s3CopyCache.json
+.env
+node_modules
+images

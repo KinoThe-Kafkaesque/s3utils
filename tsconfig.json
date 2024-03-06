@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "lib": ["esnext", "dom"], // Include 'dom' if you need DOM types, remove it if not necessary
+    "types": ["node"] // This line ensures Node.js types are included
+    // other options...
+  }
+  // other settings...
+}
